@@ -588,7 +588,17 @@ const Sidebar = ({ sidebarOpen, setSidebarOpen }: SidebarProps) => {
                             >
                               Cards
                             </Link>
-                          </li>  <li>
+                          </li>
+                          <li>
+                            <Link
+                              href="/ui/tables"
+                              className={`group relative flex items-center gap-2.5 rounded-md px-4 font-medium text-bodydark2 duration-300 ease-in-out hover:text-white ${pathname === "/ui/tables" && "text-white"
+                                }`}
+                            >
+                              Tables
+                            </Link>
+                          </li>
+                          <li>
                             <Link
                               href="/ui/alerts"
                               className={`group relative flex items-center gap-2.5 rounded-md px-4 font-medium text-bodydark2 duration-300 ease-in-out hover:text-white ${pathname === "/ui/alerts" && "text-white"
