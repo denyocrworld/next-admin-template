@@ -1,0 +1,17 @@
+{
+  "tstart": {
+    "prefix": "tstart",
+    "body": "{/* snippetName */}",
+    "description": ""
+  },
+  "tend": {
+    "prefix": "tend",
+    "body": "{/* ~ */}",
+    "description": ""
+  },
+  "lorem": {
+    "prefix": "lorem",
+    "body": "Lorem ipsum dolor sit amet, vehiculaum ero felis loreum fitiona fringilla goes scelerisque Interdum et.",
+    "description": ""
+  }
+}

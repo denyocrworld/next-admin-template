@@ -1,0 +1,307 @@
+{
+  "button_primary": {
+    "prefix": "button_primary",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center bg-primary py-4 px-10 text-center font-medium text-white hover:bg-opacity-90 lg:px-8 xl:px-10\">  Primary</Link>",
+    "description": ""
+  },
+  "button_secondary": {
+    "prefix": "button_secondary",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center bg-secondary py-4 px-10 text-center font-medium text-white hover:bg-opacity-90 lg:px-8 xl:px-10\">  Secondary</Link>",
+    "description": ""
+  },
+  "button_success": {
+    "prefix": "button_success",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center bg-success py-4 px-10 text-center font-medium text-white hover:bg-opacity-90 lg:px-8 xl:px-10\">  Success</Link>",
+    "description": ""
+  },
+  "button_danger": {
+    "prefix": "button_danger",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center bg-danger py-4 px-10 text-center font-medium text-white hover:bg-opacity-90 lg:px-8 xl:px-10\">  Danger</Link>",
+    "description": ""
+  },
+  "button_warning": {
+    "prefix": "button_warning",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center bg-warning py-4 px-10 text-center font-medium text-white hover:bg-opacity-90 lg:px-8 xl:px-10\">  Warning</Link>",
+    "description": ""
+  },
+  "button_info": {
+    "prefix": "button_info",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center bg-info py-4 px-10 text-center font-medium text-white hover:bg-opacity-90 lg:px-8 xl:px-10\">  Info</Link>",
+    "description": ""
+  },
+  "button_primary_rounded": {
+    "prefix": "button_primary_rounded",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center rounded-md bg-primary py-4 px-10 text-center font-medium text-white hover:bg-opacity-90 lg:px-8 xl:px-10\">  Primary</Link>",
+    "description": ""
+  },
+  "button_secondary_rounded": {
+    "prefix": "button_secondary_rounded",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center rounded-md bg-secondary py-4 px-10 text-center font-medium text-white hover:bg-opacity-90 lg:px-8 xl:px-10\">  Secondary</Link>",
+    "description": ""
+  },
+  "button_success_rounded": {
+    "prefix": "button_success_rounded",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center rounded-md bg-success py-4 px-10 text-center font-medium text-white hover:bg-opacity-90 lg:px-8 xl:px-10\">  Success</Link>",
+    "description": ""
+  },
+  "button_danger_rounded": {
+    "prefix": "button_danger_rounded",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center rounded-md bg-danger py-4 px-10 text-center font-medium text-white hover:bg-opacity-90 lg:px-8 xl:px-10\">  Danger</Link>",
+    "description": ""
+  },
+  "button_warning_rounded": {
+    "prefix": "button_warning_rounded",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center rounded-md bg-warning py-4 px-10 text-center font-medium text-white hover:bg-opacity-90 lg:px-8 xl:px-10\">  Warning</Link>",
+    "description": ""
+  },
+  "button_info_rounded": {
+    "prefix": "button_info_rounded",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center rounded-md bg-info py-4 px-10 text-center font-medium text-white hover:bg-opacity-90 lg:px-8 xl:px-10\">  Info</Link>",
+    "description": ""
+  },
+  "button_primary_stadium": {
+    "prefix": "button_primary_stadium",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center rounded-full bg-primary py-4 px-10 text-center font-medium text-white hover:bg-opacity-90 lg:px-8 xl:px-10\">  Primary</Link>",
+    "description": ""
+  },
+  "button_secondary_stadium": {
+    "prefix": "button_secondary_stadium",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center rounded-full bg-secondary py-4 px-10 text-center font-medium text-white hover:bg-opacity-90 lg:px-8 xl:px-10\">  Secondary</Link>",
+    "description": ""
+  },
+  "button_success_stadium": {
+    "prefix": "button_success_stadium",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center rounded-full bg-success py-4 px-10 text-center font-medium text-white hover:bg-opacity-90 lg:px-8 xl:px-10\">  Success</Link>",
+    "description": ""
+  },
+  "button_danger_stadium": {
+    "prefix": "button_danger_stadium",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center rounded-full bg-danger py-4 px-10 text-center font-medium text-white hover:bg-opacity-90 lg:px-8 xl:px-10\">  Danger</Link>",
+    "description": ""
+  },
+  "button_warning_stadium": {
+    "prefix": "button_warning_stadium",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center rounded-full bg-warning py-4 px-10 text-center font-medium text-white hover:bg-opacity-90 lg:px-8 xl:px-10\">  Warning</Link>",
+    "description": ""
+  },
+  "button_info_stadium": {
+    "prefix": "button_info_stadium",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center rounded-full bg-info py-4 px-10 text-center font-medium text-white hover:bg-opacity-90 lg:px-8 xl:px-10\">  Info</Link>",
+    "description": ""
+  },
+  "button_primary_outline": {
+    "prefix": "button_primary_outline",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center rounded-md border border-primary py-4 px-10 text-center font-medium text-primary hover:bg-opacity-90 lg:px-8 xl:px-10\">  Primary</Link>",
+    "description": ""
+  },
+  "button_secondary_outline": {
+    "prefix": "button_secondary_outline",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center rounded-md border border-secondary py-4 px-10 text-center font-medium text-secondary hover:bg-opacity-90 lg:px-8 xl:px-10\">  Secondary</Link>",
+    "description": ""
+  },
+  "button_success_outline": {
+    "prefix": "button_success_outline",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center rounded-md border border-success py-4 px-10 text-center font-medium text-success hover:bg-opacity-90 lg:px-8 xl:px-10\">  Success</Link>",
+    "description": ""
+  },
+  "button_danger_outline": {
+    "prefix": "button_danger_outline",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center rounded-md border border-danger py-4 px-10 text-center font-medium text-danger hover:bg-opacity-90 lg:px-8 xl:px-10\">  Danger</Link>",
+    "description": ""
+  },
+  "button_warning_outline": {
+    "prefix": "button_warning_outline",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center rounded-md border border-warning py-4 px-10 text-center font-medium text-warning hover:bg-opacity-90 lg:px-8 xl:px-10\">  Warning</Link>",
+    "description": ""
+  },
+  "button_info_outline": {
+    "prefix": "button_info_outline",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center rounded-md border border-info py-4 px-10 text-center font-medium text-info hover:bg-opacity-90 lg:px-8 xl:px-10\">  Info</Link>",
+    "description": ""
+  },
+  "button_icon_primary": {
+    "prefix": "button_icon_primary",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center gap-2.5 bg-primary py-4 px-10 text-center font-medium text-white hover:bg-opacity-90 lg:px-8 xl:px-10\">  <FontAwesomeIcon icon={faSave} />  Primary</Link>",
+    "description": ""
+  },
+  "button_icon_secondary": {
+    "prefix": "button_icon_secondary",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center gap-2.5 bg-secondary py-4 px-10 text-center font-medium text-white hover:bg-opacity-90 lg:px-8 xl:px-10\">  <FontAwesomeIcon icon={faSave} />  Secondary</Link>",
+    "description": ""
+  },
+  "button_icon_success": {
+    "prefix": "button_icon_success",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center gap-2.5 bg-success py-4 px-10 text-center font-medium text-white hover:bg-opacity-90 lg:px-8 xl:px-10\">  <FontAwesomeIcon icon={faSave} />  Success</Link>",
+    "description": ""
+  },
+  "button_icon_danger": {
+    "prefix": "button_icon_danger",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center gap-2.5 bg-danger py-4 px-10 text-center font-medium text-white hover:bg-opacity-90 lg:px-8 xl:px-10\">  <FontAwesomeIcon icon={faSave} />  Danger</Link>",
+    "description": ""
+  },
+  "button_icon_warning": {
+    "prefix": "button_icon_warning",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center gap-2.5 bg-warning py-4 px-10 text-center font-medium text-white hover:bg-opacity-90 lg:px-8 xl:px-10\">  <FontAwesomeIcon icon={faSave} />  Warning</Link>",
+    "description": ""
+  },
+  "button_icon_info": {
+    "prefix": "button_icon_info",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center gap-2.5 bg-info py-4 px-10 text-center font-medium text-white hover:bg-opacity-90 lg:px-8 xl:px-10\">  <FontAwesomeIcon icon={faSave} />  Info</Link>",
+    "description": ""
+  },
+  "button_icon_primary_rounded": {
+    "prefix": "button_icon_primary_rounded",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center rounded-md gap-2.5 bg-primary py-4 px-10 text-center font-medium text-white hover:bg-opacity-90 lg:px-8 xl:px-10\">  <FontAwesomeIcon icon={faSave} />  Primary</Link>",
+    "description": ""
+  },
+  "button_icon_secondary_rounded": {
+    "prefix": "button_icon_secondary_rounded",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center rounded-md gap-2.5 bg-secondary py-4 px-10 text-center font-medium text-white hover:bg-opacity-90 lg:px-8 xl:px-10\">  <FontAwesomeIcon icon={faSave} />  Secondary</Link>",
+    "description": ""
+  },
+  "button_icon_success_rounded": {
+    "prefix": "button_icon_success_rounded",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center rounded-md gap-2.5 bg-success py-4 px-10 text-center font-medium text-white hover:bg-opacity-90 lg:px-8 xl:px-10\">  <FontAwesomeIcon icon={faSave} />  Success</Link>",
+    "description": ""
+  },
+  "button_icon_danger_rounded": {
+    "prefix": "button_icon_danger_rounded",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center rounded-md gap-2.5 bg-danger py-4 px-10 text-center font-medium text-white hover:bg-opacity-90 lg:px-8 xl:px-10\">  <FontAwesomeIcon icon={faSave} />  Danger</Link>",
+    "description": ""
+  },
+  "button_icon_warning_rounded": {
+    "prefix": "button_icon_warning_rounded",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center rounded-md gap-2.5 bg-warning py-4 px-10 text-center font-medium text-white hover:bg-opacity-90 lg:px-8 xl:px-10\">  <FontAwesomeIcon icon={faSave} />  Warning</Link>",
+    "description": ""
+  },
+  "button_icon_info_rounded": {
+    "prefix": "button_icon_info_rounded",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center rounded-md gap-2.5 bg-info py-4 px-10 text-center font-medium text-white hover:bg-opacity-90 lg:px-8 xl:px-10\">  <FontAwesomeIcon icon={faSave} />  Info</Link>",
+    "description": ""
+  },
+  "button_icon_primary_stadium": {
+    "prefix": "button_icon_primary_stadium",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center rounded-full gap-2.5 bg-primary py-4 px-10 text-center font-medium text-white hover:bg-opacity-90 lg:px-8 xl:px-10\">  <FontAwesomeIcon icon={faSave} />  Primary</Link>",
+    "description": ""
+  },
+  "button_icon_secondary_stadium": {
+    "prefix": "button_icon_secondary_stadium",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center rounded-full gap-2.5 bg-secondary py-4 px-10 text-center font-medium text-white hover:bg-opacity-90 lg:px-8 xl:px-10\">  <FontAwesomeIcon icon={faSave} />  Secondary</Link>",
+    "description": ""
+  },
+  "button_icon_success_stadium": {
+    "prefix": "button_icon_success_stadium",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center rounded-full gap-2.5 bg-success py-4 px-10 text-center font-medium text-white hover:bg-opacity-90 lg:px-8 xl:px-10\">  <FontAwesomeIcon icon={faSave} />  Success</Link>",
+    "description": ""
+  },
+  "button_icon_danger_stadium": {
+    "prefix": "button_icon_danger_stadium",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center rounded-full gap-2.5 bg-danger py-4 px-10 text-center font-medium text-white hover:bg-opacity-90 lg:px-8 xl:px-10\">  <FontAwesomeIcon icon={faSave} />  Danger</Link>",
+    "description": ""
+  },
+  "button_icon_warning_stadium": {
+    "prefix": "button_icon_warning_stadium",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center rounded-full gap-2.5 bg-warning py-4 px-10 text-center font-medium text-white hover:bg-opacity-90 lg:px-8 xl:px-10\">  <FontAwesomeIcon icon={faSave} />  Warning</Link>",
+    "description": ""
+  },
+  "button_icon_info_stadium": {
+    "prefix": "button_icon_info_stadium",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center rounded-full gap-2.5 bg-info py-4 px-10 text-center font-medium text-white hover:bg-opacity-90 lg:px-8 xl:px-10\">  <FontAwesomeIcon icon={faSave} />  Info</Link>",
+    "description": ""
+  },
+  "button_icon_primary_outline": {
+    "prefix": "button_icon_primary_outline",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center rounded-md gap-2.5 border border-primary py-4 px-10 text-center font-medium text-primary hover:bg-opacity-90 lg:px-8 xl:px-10\">  <FontAwesomeIcon icon={faSave} />  Primary</Link>",
+    "description": ""
+  },
+  "button_icon_secondary_outline": {
+    "prefix": "button_icon_secondary_outline",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center rounded-md gap-2.5 border border-secondary py-4 px-10 text-center font-medium text-secondary hover:bg-opacity-90 lg:px-8 xl:px-10\">  <FontAwesomeIcon icon={faSave} />  Secondary</Link>",
+    "description": ""
+  },
+  "button_icon_success_outline": {
+    "prefix": "button_icon_success_outline",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center rounded-md gap-2.5 border border-success py-4 px-10 text-center font-medium text-success hover:bg-opacity-90 lg:px-8 xl:px-10\">  <FontAwesomeIcon icon={faSave} />  Success</Link>",
+    "description": ""
+  },
+  "button_icon_danger_outline": {
+    "prefix": "button_icon_danger_outline",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center rounded-md gap-2.5 border border-danger py-4 px-10 text-center font-medium text-danger hover:bg-opacity-90 lg:px-8 xl:px-10\">  <FontAwesomeIcon icon={faSave} />  Danger</Link>",
+    "description": ""
+  },
+  "button_icon_warning_outline": {
+    "prefix": "button_icon_warning_outline",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center rounded-md gap-2.5 border border-warning py-4 px-10 text-center font-medium text-warning hover:bg-opacity-90 lg:px-8 xl:px-10\">  <FontAwesomeIcon icon={faSave} />  Warning</Link>",
+    "description": ""
+  },
+  "button_icon_info_outline": {
+    "prefix": "button_icon_info_outline",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center rounded-md gap-2.5 border border-info py-4 px-10 text-center font-medium text-info hover:bg-opacity-90 lg:px-8 xl:px-10\">  <FontAwesomeIcon icon={faSave} />  Info</Link>",
+    "description": ""
+  },
+  "button": {
+    "prefix": "button",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center bg-primary py-4 px-10 text-center font-medium text-white hover:bg-opacity-90 lg:px-8 xl:px-10\">  Button</Link>",
+    "description": ""
+  },
+  "button_radius": {
+    "prefix": "button_radius",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center rounded-md bg-primary py-4 px-10 text-center font-medium text-white hover:bg-opacity-90 lg:px-8 xl:px-10\">  Button</Link>",
+    "description": ""
+  },
+  "button_stadium": {
+    "prefix": "button_stadium",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center rounded-full bg-primary py-4 px-10 text-center font-medium text-white hover:bg-opacity-90 lg:px-8 xl:px-10\">  Button</Link>",
+    "description": ""
+  },
+  "button_outline": {
+    "prefix": "button_outline",
+    "body": "<Link  href=\"#\"  className=\"inline-flex items-center justify-center rounded-md border border-primary py-4 px-10 text-center font-medium text-primary hover:bg-opacity-90 lg:px-8 xl:px-10\">  Button</Link>",
+    "description": ""
+  },
+  "card": {
+    "prefix": "card",
+    "body": "\r\n      <div className=\"mb-10 rounded-sm border border-stroke bg-white shadow-default dark:border-strokedark dark:bg-boxdark\">\r\n        <div className=\"border-b border-stroke px-7 py-4 dark:border-strokedark\"><h3 className=\"font-medium text-black dark:text-white\">Title</h3>\r\n        </div>\r\n\r\n        <div className=\"p-4 md:p-6 xl:p-9\">{/* Body */}\r\n        </div>\r\n      </div>\r\n      ",
+    "description": ""
+  },
+  "card_icon": {
+    "prefix": "card_icon",
+    "body": "\r\n      <div className=\"mb-10 rounded-sm border border-stroke bg-white shadow-default dark:border-strokedark dark:bg-boxdark\">\r\n        <div className=\"border-b border-stroke px-7 py-4 dark:border-strokedark\"><h3 className=\"font-medium text-black dark:text-white\">Title<span className=\"float-right\"><FontAwesomeIcon icon={faAdd} /></span></h3>\r\n        </div>\r\n\r\n        <div className=\"p-4 md:p-6 xl:p-9\">{/* Body */}<h4 className=\"text-3xl mb-2\">Heading 3</h4>\r\n<h1 className=\"text-4xl\">Heading 1</h1><h2 className=\"text-3xl\">Heading 2</h2><h3 className=\"text-2xl\">Heading 3</h3><h4 className=\"text-xl\">Heading 4</h4><h5 className=\"text-lg\">Heading 5</h5><h6 className=\"text-base\">Heading 6</h6>\r\n<p>Lorem ipsum dolor sit amet, vehiculaum ero felis loreum fitiona fringilla goes scelerisque Interdum et.</p>\r\n        </div>\r\n      </div>\r\n      ",
+    "description": ""
+  },
+  "h1": {
+    "prefix": "h1",
+    "body": "<h1 className=\"text-4xl\">Heading 1</h1>",
+    "description": ""
+  },
+  "h2": {
+    "prefix": "h2",
+    "body": "<h2 className=\"text-3xl\">Heading 2</h2>",
+    "description": ""
+  },
+  "h3": {
+    "prefix": "h3",
+    "body": "<h3 className=\"text-2xl\">Heading 3</h3>",
+    "description": ""
+  },
+  "h4": {
+    "prefix": "h4",
+    "body": "<h4 className=\"text-xl\">Heading 4</h4>",
+    "description": ""
+  },
+  "h5": {
+    "prefix": "h5",
+    "body": "<h5 className=\"text-lg\">Heading 5</h5>",
+    "description": ""
+  },
+  "h6": {
+    "prefix": "h6",
+    "body": "<h6 className=\"text-base\">Heading 6</h6>",
+    "description": ""
+  },
+  "plorem": {
+    "prefix": "plorem",
+    "body": "<p>Lorem ipsum dolor sit amet, vehiculaum ero felis loreum fitiona fringilla goes scelerisque Interdum et.</p>",
+    "description": ""
+  }
+}
